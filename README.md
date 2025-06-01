@@ -26,6 +26,7 @@ I specialize in:
 
 ![Liquid](https://img.shields.io/badge/Shopify-Liquid-brightgreen)
 ![JavaScript](https://img.shields.io/badge/JS-Intermediate-yellow)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Integration-blueviolet)
 ![HTML5](https://img.shields.io/badge/HTML5-%3E10yrs-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Flexbox--Grid-blue)
@@ -40,7 +41,7 @@ I specialize in:
 ### 🔹 Shopify Themes on Envato
 - 🔗 [Boom](https://themeforest.net/item/boom-earpods-store-shopify-theme/28166954)
 - 🔗 [Triss - Hair Extension](https://themeforest.net/item/triss-saloon-barber-store-shopify-theme/21573962)
-- 🔗 [Baby Planet]([https://www.blissvixen.com.au](https://themeforest.net/item/baby-planet-kids-toys-accessories-shopify-theme/20549210))
+- 🔗 [Baby Planet](https://themeforest.net/item/baby-planet-kids-toys-accessories-shopify-theme/20549210)
 
 ### 🔹 Shopify Plus Stores
 - 🔗 [Gummy Hair](https://www.gummyhair.com.br)
