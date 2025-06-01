@@ -25,8 +25,7 @@ I specialize in:
 ## 🛠️ Technologies & Skills
 
 ![Liquid](https://img.shields.io/badge/Shopify-Liquid-brightgreen)
-![JavaScript](https://img.shields.io/badge/JS-Intermediate-yellow)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Integration-blueviolet)
 ![HTML5](https://img.shields.io/badge/HTML5-%3E10yrs-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Flexbox--Grid-blue)
